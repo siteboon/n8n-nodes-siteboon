@@ -1,6 +1,6 @@
 {
   "name": "@siteboon/n8n-nodes-siteboon",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Siteboon AI Website Builder integration for n8n - Create, manage and automate websites with AI-powered tools. Build landing pages, e-commerce sites, and web applications through n8n workflows.",
   "license": "MIT",
   "homepage": "https://siteboon.ai",
