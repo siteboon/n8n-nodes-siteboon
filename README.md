@@ -116,11 +116,3 @@ This node uses n8n's resource locator pattern, allowing you to:
 * [n8n community nodes documentation](https://docs.n8n.io/integrations/#community-nodes)
 * [GitHub Repository](https://github.com/siteboon/n8n-nodes-siteboon) - Source code and issues
 
-## Version history
-
-### 0.1.0
-- Initial release
-- Site operations: List, Get
-- Page operations: List, Get, Create, Update, Delete, Duplicate
-- API key authentication
-- Resource locator support with searchable dropdowns
