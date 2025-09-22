@@ -1,6 +1,6 @@
 {
   "name": "@siteboon/n8n-nodes-siteboon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "n8n community node for Siteboon AI website builder API",
   "license": "MIT",
   "homepage": "https://github.com/siteboon/n8n-nodes-siteboon",
