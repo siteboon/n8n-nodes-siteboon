@@ -1,18 +1,35 @@
 {
   "name": "@siteboon/n8n-nodes-siteboon",
   "version": "0.1.4",
-  "description": "n8n community node for Siteboon AI website builder API",
+  "description": "Siteboon AI Website Builder integration for n8n - Create, manage and automate websites with AI-powered tools. Build landing pages, e-commerce sites, and web applications through n8n workflows.",
   "license": "MIT",
   "homepage": "https://siteboon.ai",
   "keywords": [
     "n8n-community-node-package",
     "siteboon",
     "website-builder",
+    "ai-website-builder",
     "ai",
+    "artificial-intelligence",
     "automation",
     "n8n",
     "n8n-nodes",
-    "siteboon-node"
+    "siteboon-node",
+    "web-development",
+    "landing-pages",
+    "ecommerce",
+    "cms",
+    "website-automation",
+    "no-code",
+    "low-code",
+    "drag-and-drop",
+    "website-creator",
+    "site-builder",
+    "web-builder",
+    "website-api",
+    "workflow-automation",
+    "integration",
+    "saas"
   ],
   "author": {
     "name": "Simos",
@@ -21,6 +38,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/siteboon/n8n-nodes-siteboon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siteboon/n8n-nodes-siteboon/issues"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://siteboon.ai"
   },
   "scripts": {
     "build": "n8n-node build",

@@ -1,10 +1,20 @@
-# n8n-nodes-siteboon
+# Siteboon AI Website Builder for n8n
 
 ![Siteboon Logo](https://static.siteboon.ai/images/logo-logotype-color.svg)
 
-This is an n8n community node. It lets you use Siteboon AI website builder in your n8n workflows.
+**Automate your website creation and management with Siteboon's AI-powered tools directly in n8n workflows.**
 
-Siteboon is an AI-powered website builder platform that enables users to create, manage, and publish websites with intelligent automation.
+This n8n community node integrates [Siteboon](https://siteboon.ai) - the AI first website builder - with your automation workflows. Create landing pages, manage your sites, and build complete websites using artificial intelligence, all through n8n's powerful automation platform.
+
+## 🚀 What is Siteboon?
+
+[Siteboon](https://siteboon.ai) is a AI-powered website builder that revolutionizes web development by combining artificial intelligence with intuitive design tools. Whether you're building landing pages, corporate websites, or complex websites for lead generation, Siteboon's AI technology helps you create professional websites in minutes, while being able to create any kind of website you need without any limitations.
+
+### Key Features:
+- **AI-Powered Design**: Let artificial intelligence create and change stunning website layouts
+- **SEO Optimized**: Automatically optimized for search engines
+- **Mobile Responsive**: All websites are fully responsive across devices
+- **API Integration**: Connect with any service through robust APIs
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
@@ -80,9 +90,31 @@ This node uses n8n's resource locator pattern, allowing you to:
 - Enter IDs manually for dynamic workflows
 - Use expressions for advanced automation
 
+## Use Cases & Examples
+
+### 🎯 Marketing Automation
+- **Lead Generation**: Automatically create landing pages for new campaigns
+- **A/B Testing**: Deploy multiple page variants and track performance
+- **Dynamic Content**: Update website content based on user behavior or external data
+
+### 🔄 Workflow Integration
+- **CRM Integration**: Create proposals for new leads when needed
+- **Multi-site Management**: Manage multiple Siteboon websites from one n8n workflow
+
+## Why Choose Siteboon + n8n?
+
+✅ **AI-First Approach**: Leverage artificial intelligence for website creation and optimization
+✅ **Seamless Integration**: Native n8n node with  API access
+✅ **Scalable Solution**: Perfect for agencies managing multiple client websites
+✅ **Cost-Effective**: Reduce development time and costs with automation
+✅ **Future-Proof**: Built on modern technologies with continuous updates
+
 ## Resources
 
+* [Siteboon Official Website](https://siteboon.ai) - Learn more about Siteboon AI Website Builder
+
 * [n8n community nodes documentation](https://docs.n8n.io/integrations/#community-nodes)
+* [GitHub Repository](https://github.com/siteboon/n8n-nodes-siteboon) - Source code and issues
 
 ## Version history
 
