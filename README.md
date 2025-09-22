@@ -83,8 +83,6 @@ This node uses n8n's resource locator pattern, allowing you to:
 ## Resources
 
 * [n8n community nodes documentation](https://docs.n8n.io/integrations/#community-nodes)
-* [Siteboon Documentation](https://siteboon.ai/docs)
-* [Siteboon API Reference](https://siteboon.ai/api-docs)
 
 ## Version history
 
