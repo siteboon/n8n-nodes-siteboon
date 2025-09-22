@@ -3,17 +3,20 @@
   "version": "0.1.2",
   "description": "n8n community node for Siteboon AI website builder API",
   "license": "MIT",
-  "homepage": "https://github.com/siteboon/n8n-nodes-siteboon",
+  "homepage": "https://siteboon.ai",
   "keywords": [
     "n8n-community-node-package",
     "siteboon",
     "website-builder",
     "ai",
-    "automation"
+    "automation",
+    "n8n",
+    "n8n-nodes",
+    "siteboon-node"
   ],
   "author": {
     "name": "Simos",
-    "email": "simosmik@gmail.com"
+    "email": "simos@siteboon.ai"
   },
   "repository": {
     "type": "git",
